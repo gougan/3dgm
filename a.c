@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 int main(){
-
-	printf("Content-type: text/html\n\n");
+	
+	printf("<!DOCTYPE html>\n");
     printf("<html>\n");
     printf("<head>\n");
-    printf("<title>‹ã‹ã</title>\n");
+    printf("<title>99</title>\n");
     printf("</head>\n");
     printf("<body>\n");
 	printf("\t");
